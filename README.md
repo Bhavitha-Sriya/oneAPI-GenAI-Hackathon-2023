@@ -19,7 +19,7 @@ To get started with the oneAPI-GenAI-Hackathon-2023 repository, follow these ste
 #### Problem Statement - **Create an Adaptive Language Model (LLM) for a versatile AI platform, catering to a diverse range of user personas, including families, startup entrepreneurs, introverts, and more. This LLM should intelligently preserve context and customize interactions to suit the unique thoughts and preferences of each persona, delivering an enhanced user experience across a broad spectrum of users.**
 #### Team Leader Email - **avvasriya@gmail.com**
 
-### A Brief of the Prototype:
+### A Brief of the Prototype: - Phase -1
   1. *User Persona Interface:*
    - Develop an intuitive graphical interface that allows users to select and switch between different personas (e.g., family member, startup entrepreneur, introvert).
    - Include options for users to personalize their profiles based on persona preferences.
